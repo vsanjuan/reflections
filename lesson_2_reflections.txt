@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates a meta folder with information regarding the different commits and other information to track the different versions.
