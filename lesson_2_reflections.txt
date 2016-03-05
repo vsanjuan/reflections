@@ -10,3 +10,6 @@ The repository are changes committed.
 
 This system makes it easier before commiting any changes to differiante very well the changes.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+By checking the changes made to the code before committing using the command git diff --staged
