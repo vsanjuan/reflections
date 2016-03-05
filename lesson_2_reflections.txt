@@ -13,3 +13,7 @@ This system makes it easier before commiting any changes to differiante very wel
 How can you use the staging area to make sure you have one commit per logical change?
 
 By checking the changes made to the code before committing using the command git diff --staged
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you want to make variations of a program and keep them separated, or maybe you work with another programmer and want to keep the changes apart and merge the branches later.
