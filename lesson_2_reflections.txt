@@ -1,3 +1,12 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 It creates a meta folder with information regarding the different commits and other information to track the different versions.
+
+How is the staging area different from the working directory and the repository?What value do you think it offers?
+
+Working directory show the changes made not waiting to commit.
+The staging area represents changes pending to commit.
+The repository are changes committed.
+
+This system makes it easier before commiting any changes to differiante very well the changes.
+
