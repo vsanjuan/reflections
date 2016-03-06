@@ -23,3 +23,7 @@ There are good to for new features so you can keept the old work, productio qual
 How do the diagrams help you visualize the branch structure?
 
 By making it easie to visualize the different branches on the tree.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+That we have all the changes made in both branches merged into one from where we can reach all the changes.
