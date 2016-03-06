@@ -27,3 +27,14 @@ By making it easie to visualize the different branches on the tree.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 That we have all the changes made in both branches merged into one from where we can reach all the changes.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic 
+
+Pros Less time     Cons Very difficult to program Mistakes
+
+Manual
+
+Pros Less errors   Cons Time consuming
+
